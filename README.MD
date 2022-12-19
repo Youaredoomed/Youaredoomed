@@ -1,14 +1,7 @@
 ## 🙋🏻‍♂️ About Me:
-🔹 Hi 🖐🏻, I'm a junior developer 🐣
+🔹 Hi 🖐🏻
 
 🔹
-
-🔹 I like traveling 🛫 🛸
-
-🔹 I have some pets 🐟 🕷
-
-🔹 I'm a BLUE lover 📷 👉🏻 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/blueeholiic)
 
 
 ## 📘 Tech Stack:
