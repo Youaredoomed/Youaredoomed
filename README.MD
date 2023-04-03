@@ -14,4 +14,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Youaredoomed&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Youaredoomed&icon=1&color=1)]
