@@ -1,7 +1,7 @@
 # 🙋🏻‍♂️ About Me
-**🔹 App developer**
+**🔹 App developer🛸**
 
-**🔹 Goldfish breeder**
+**🔹 Goldfish breeder🐳**
 
 
 ## 📘 Tech Stack:
