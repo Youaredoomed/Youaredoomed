@@ -1,7 +1,6 @@
-## 🙋🏻‍♂️ About Me:
-🔹 Hi 🖐🏻
-
-🔹
+## 🙋🏻‍♂️ About Me
+🔹 App developer
+🔹 Goldfish breeder
 
 
 ## 📘 Tech Stack:
