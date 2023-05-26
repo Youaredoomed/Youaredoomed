@@ -6,7 +6,7 @@
 **🔹 Tarantula breeder 🕷**
 
 ## 📘 Tech Stack:
-<img src="resource/django.png" width="50" height="50"/>
+<img src="resource/django.png" alt="django" width="50" height="50"/>
 
 HTML CSS3 SASS
 
