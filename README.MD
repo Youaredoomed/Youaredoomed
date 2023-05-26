@@ -3,6 +3,7 @@
 
 **🔹 Goldfish breeder 🐳**
 
+**🔹 Tarantula breeder 🕷**
 
 ## 📘 Tech Stack:
 HTML CSS3 SASS
