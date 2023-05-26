@@ -6,6 +6,7 @@
 **🔹 Tarantula breeder 🕷**
 
 ## 📘 Tech Stack:
+![django](./resource/django.png)
 HTML CSS3 SASS
 
 KOTLIN
