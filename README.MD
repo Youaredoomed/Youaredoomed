@@ -7,7 +7,7 @@
 
 ## 📘 Tech Stack:
 <img src="resource/django.png" width="50" height="50"/>
-[![Image](resource/django.png)](javascript:void(0))
+[![Image](./resource/django.png)](javascript:void(0))
 
 <style>
 a[href^="javascript:"] {
