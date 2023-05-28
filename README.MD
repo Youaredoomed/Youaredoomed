@@ -12,7 +12,7 @@
 
 
 <div style="float: left">
-  <img src="resource/python.png" alt="python" width="50" height="50" margin-right="20">
+  <img src="resource/python.png" alt="python" width="50" height="50">
   <img src="resource/django.png" alt="django" width="50" height="50">
 </div>
 
