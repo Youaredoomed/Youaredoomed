@@ -25,18 +25,10 @@
   <img src="resource/android.png" alt="python" width="50" height="50">
   <img src="resource/cpp.png" alt="python" width="50" height="50">
   <img src="resource/postgresql.png" alt="python" width="50" height="50">
+  <img src="resource/swift.png" alt="python" width="50" height="50">
+  <img src="resource/jetpack.png" alt="python" width="50" height="50">
 </div>
 
-HTML CSS3 SASS
-
-KOTLIN
-SWIFT
-PYTHON
-
-ANDROID
-IOS
-
-LINUX / UBUNTU
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Youaredoomed&icon=10&color=9)
