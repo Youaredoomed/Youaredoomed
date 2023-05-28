@@ -6,10 +6,21 @@
 **🔹 Tarantula breeder 🕷**
 
 ## 📘 Tech Stack:
-<div>
-  <img src="resource/django.png" alt="django" style="float: left; margin-right: 10px;">
-  <img src="resource/python.png" alt="python" style="float: left;">
+
+
+<div style="float: left">
+  <img src="resource/python.png" alt="python" width="50" height="50">
+  <img src="resource/django.png" alt="django" width="50" height="50">
 </div>
+
+
+<div style="float: left">
+  <img src="resource/html5.png" alt="python" width="50" height="50">
+  <img src="resource/css3.png" alt="python" width="50" height="50">
+  <img src="resource/sass.png" alt="python" width="50" height="50">
+  <img src="resource/scss.png" alt="python" width="50" height="50">
+</div>
+
 HTML CSS3 SASS
 
 KOTLIN
@@ -22,4 +33,4 @@ IOS
 LINUX / UBUNTU
 
 ---
-![](https://visitcount.itsvg.in/api?id=Youaredoomed&icon=1&color=1)
+![](https://visitcount.itsvg.in/api?id=Youaredoomed&icon=10&color=9)
