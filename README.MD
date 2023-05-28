@@ -11,7 +11,7 @@
 ## 📘 Tech Stack:
 
 
-<div style="float: left">
+<div style="float: left" margin-right="20">
   <img src="resource/python.png" alt="python" width="50" height="50">
   <img src="resource/django.png" alt="django" width="50" height="50">
 </div>
