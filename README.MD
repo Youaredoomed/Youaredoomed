@@ -6,7 +6,13 @@
 💙🔵🟦🔷🔹🔥🍣🌱🥥🎉🎊🏆🎮📱🎥📜🙏🏻👻🛸
 
 ## 📘 Tech Stack:
-
+VS code 
+Vim
+Latex
+Git
+Kotlin
+Android
+Jetpack
 
 <div style="float: left">
   <img src="resource/python.png" alt="python" width="50" height="50">
